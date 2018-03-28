@@ -16,7 +16,7 @@
     </parent>
     <groupId>org.eclipse.che.sample</groupId>
     <artifactId>plugin-embedjs-sample</artifactId>
-    <version>6.3.0</version>
+    <version>6.3.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Plugin Embed JavaScript :: Parent pom</name>
     <url>https://www.eclipse.org/che/</url>
@@ -30,7 +30,7 @@
     <scm>
         <connection>scm:git:git@github.com:che-samples/che-plugin-embedjs.git</connection>
         <developerConnection>scm:git:git@github.com:che-samples/che-plugin-embedjs.git</developerConnection>
-        <tag>6.3.0</tag>
+        <tag>HEAD</tag>
         <url>https://github.com/che-samples/che-plugin-embedjs</url>
     </scm>
     <properties>
